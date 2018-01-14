@@ -1,0 +1,11 @@
+{
+  "name": "colors",
+  "version": "1.0.0",
+  "description": "find your html colors",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "jennyknuth",
+  "license": "ISC"
+}
