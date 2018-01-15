@@ -1,5 +1,5 @@
 
-[
+module.exports = [
   {
     "name": "INDIANRED",
     "hex": "#CD5C5C",
